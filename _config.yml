@@ -1,10 +1,9 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Moises
+bio: HOLA me llamo moises y me gusta hacer ejercicio
 
 # twitter summary info
-description: A blog about technology and stuff related
-
+description: Blog personal
 picture: assets/images/picture.jpg
 
 url: http://koppl.in/violet
